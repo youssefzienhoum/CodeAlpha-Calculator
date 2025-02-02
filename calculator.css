@@ -13,7 +13,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background: linear-gradient(118deg, var(--main-color), var(--second-color));
 
 }
 .calculator {
